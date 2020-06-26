@@ -1,0 +1,16 @@
+enter map
+turn left
+turn right
+go backward
+turn right
+turn left
+image
+0
+turn right
+turn right
+turn right
+28.13 25.54 24.73 23.51
+-2.58 -0.81 -1.22
+object 1
+turn right
+exit
